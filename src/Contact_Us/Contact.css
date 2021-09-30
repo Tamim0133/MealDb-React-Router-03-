@@ -1,0 +1,12 @@
+.about-us a,
+.customer-care a {
+  text-decoration: none;
+  color: white;
+}
+.about-us a:hover,
+.customer-care a:hover {
+  color: rgb(236, 82, 108);
+}
+.link-container i {
+  cursor: pointer;
+}
